@@ -1,6 +1,6 @@
 {
   "name": "@useless-developers/prettier-config",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "For useless developers, by useless developers.",
   "main": "prettier.config.mjs",
   "keywords": [
